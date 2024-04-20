@@ -1,0 +1,12 @@
+name: LuaLink-TriumphGUI
+version: "1.0.0"
+authors:
+  - Element4521
+main: xyz.galaxyy.lualink.addons.triumphgui.LuaLinkTriumphGUI
+description: A LuaLink addon that adds a Lua wrapper for TriumphGUI to allow for easy GUI creation in Lua.
+api-version: "1.20"
+dependencies:
+  - name: LuaLink
+    required: true
+    bootstrap: false
+
