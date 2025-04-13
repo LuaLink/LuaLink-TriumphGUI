@@ -1,3 +1,4 @@
+# OBSOLETE WITH V2. Please see https://lualink.github.io/docs/dependencies/ for using external plugins.
 # LuaLink-TriumphGUI
 A LuaLink Addon which provides a simple Lua API for creating GUIs with [TriumphGUI](https://github.com/TriumphTeam/triumph-gui/). 
 
